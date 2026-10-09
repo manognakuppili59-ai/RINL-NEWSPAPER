@@ -1,8 +1,7 @@
-__pycache__/
-*.pyc
+node_modules/
+dist/
 .env
-.venv/
-venv/
-*.egg-info/
-.pytest_cache/
-generated_reports/
+.DS_Store
+*.local
+
+.vercel
